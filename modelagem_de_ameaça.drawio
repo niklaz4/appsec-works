@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T18:32:25.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1uFqizWtmoLB-kG4qlkh" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T19:24:31.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RpRwzSyIapFXujrFDy9u" version="22.1.7" type="github">
   <diagram name="Página-1" id="nJQha7mO2c_bVjE5gBYJ">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,6 +88,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="429.5" as="sourcePoint" />
             <mxPoint x="470" y="429.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gDViUDy701-1FW2TxERx-36" value="Possíveis ameaças" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="510" width="316.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gDViUDy701-1FW2TxERx-37" value="- Elevation of Privilege: Tentativa de obter privilégios elevados no sistema.|" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gDViUDy701-1FW2TxERx-36">
+          <mxGeometry x="40" y="30" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gDViUDy701-1FW2TxERx-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="554.5" as="sourcePoint" />
+            <mxPoint x="490" y="554.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
