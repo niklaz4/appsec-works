@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T19:24:31.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RpRwzSyIapFXujrFDy9u" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T19:32:52.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yea1X5kn2e8nY3XLjXf4" version="22.1.7" type="github">
   <diagram name="Página-1" id="nJQha7mO2c_bVjE5gBYJ">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gDViUDy701-1FW2TxERx-18" value="Agendamento com um profissional da saúde" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gDViUDy701-1FW2TxERx-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -69,7 +69,7 @@
         <mxCell id="gDViUDy701-1FW2TxERx-30" value="Possíveis ameaças" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507" y="260" width="313" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="gDViUDy701-1FW2TxERx-31" value="- Spoofing: Tentativa de falsificar credenciais.&lt;br&gt;&amp;nbsp;- Repudiation: Negar ter autenticado o usuário." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gDViUDy701-1FW2TxERx-30">
+        <mxCell id="gDViUDy701-1FW2TxERx-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;- Spoofing: Tentativa de falsificar credenciais.&lt;br&gt;&amp;nbsp;- Repudiation: Negar ter autenticado o usuário.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gDViUDy701-1FW2TxERx-30">
           <mxGeometry x="40" y="30" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gDViUDy701-1FW2TxERx-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -81,7 +81,7 @@
         <mxCell id="gDViUDy701-1FW2TxERx-33" value="Possíveis ameaças" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503.5" y="380" width="313" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="gDViUDy701-1FW2TxERx-34" value="- Information Disclosure: Tentativa de acesso não autorizado a informações confidenciais de profissionais da saúde." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gDViUDy701-1FW2TxERx-33">
+        <mxCell id="gDViUDy701-1FW2TxERx-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;- Information Disclosure: Tentativa de acesso não autorizado a informações confidenciais de profissionais da saúde.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gDViUDy701-1FW2TxERx-33">
           <mxGeometry x="40" y="30" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gDViUDy701-1FW2TxERx-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -91,15 +91,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gDViUDy701-1FW2TxERx-36" value="Possíveis ameaças" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="503.5" y="510" width="316.5" height="100" as="geometry" />
+          <mxGeometry x="514" y="630" width="306" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="gDViUDy701-1FW2TxERx-37" value="- Elevation of Privilege: Tentativa de obter privilégios elevados no sistema.|" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gDViUDy701-1FW2TxERx-36">
-          <mxGeometry x="40" y="30" width="230" height="70" as="geometry" />
+        <mxCell id="gDViUDy701-1FW2TxERx-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;- Elevation of Privilege: Tentativa de obter privilégios elevados no sistema.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gDViUDy701-1FW2TxERx-36">
+          <mxGeometry x="31" y="30" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gDViUDy701-1FW2TxERx-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="554.5" as="sourcePoint" />
-            <mxPoint x="490" y="554.5" as="targetPoint" />
+            <mxPoint x="450" y="669.5" as="sourcePoint" />
+            <mxPoint x="480" y="669.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gDViUDy701-1FW2TxERx-41" value="Servidor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gDViUDy701-1FW2TxERx-42" value="Possíveis ameaças" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="500" width="313" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gDViUDy701-1FW2TxERx-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;- Denial of Service:Tentativa de tornar o servidor inacessível para usuários legítimos, sobrecarregando-o com tráfego malicioso ou manipulado.&lt;br&gt;.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gDViUDy701-1FW2TxERx-42">
+          <mxGeometry x="40" y="30" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gDViUDy701-1FW2TxERx-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="549.5" as="sourcePoint" />
+            <mxPoint x="480" y="549.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gDViUDy701-1FW2TxERx-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=6.2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.5" y="590" as="sourcePoint" />
+            <mxPoint x="379.5" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
